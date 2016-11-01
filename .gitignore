@@ -1,0 +1,40 @@
+# Object files
+*.o
+*.ko
+*.order
+*.cmd
+*.mod.c
+Module.symvers
+
+# Python
+*.pyc
+
+# Build folder
+bin/
+
+# QtCreator files
+*.creator
+*.creator.user
+*.config
+*.files
+*.includes
+
+# Other
+*.swp
+*.tmp_versions
+.~lock*
+
+# Output files
+*.hist
+*.out
+*.summary
+
+# Perf
+perf.data*
+
+# Data
+*.hist
+
+*.z
+*.otf
+*.thumb
